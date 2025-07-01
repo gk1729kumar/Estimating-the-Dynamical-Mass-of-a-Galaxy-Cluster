@@ -137,5 +137,5 @@ print(f"Mass Ratio (Dyn/Lum): {dynamical_mass_ratio:.2f}")
 
 
 # ------------------------------
-# End of Notebook
+# End of file
 # ------------------------------
